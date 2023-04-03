@@ -6,6 +6,8 @@ Seven years of experience in marketing and international expansion for corporati
 
 ---
 
+## Midterm.md
+
 ## Portfolio
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
