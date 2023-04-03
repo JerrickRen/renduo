@@ -1,6 +1,7 @@
 ## About Me
 
-I am an awesome student at Lehigh, you should hire me! I'm very good!
+Business Analyst | Global Expansion
+Seven years of experience in marketing and international expansion for corporations, unicorn companies and high-growth startups in the technology industry. General managed the biggest Edtech gathering in Asia (Global Education Technology); 5+ overseas companies localization in the Asian market and increase clients’ ROI through strategic planning, consulting, and marketing advisory services.
 
 ---
 
