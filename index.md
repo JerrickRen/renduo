@@ -20,11 +20,11 @@ You can show off your midterm analysis by moving the report components and outpu
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Strategic Plan for Cocoo Chocolate](Strategic Plan for Cocoo Chocolate.pdf)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
-<img src="output_43_0.png?raw=true"/>
+<img src="Title Page.jpg?raw=true"/>
 
 
 ---
