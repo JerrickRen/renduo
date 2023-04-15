@@ -26,17 +26,6 @@ Or: The process that created this page can be used to show off your whole midter
 
 <img src="output_43_0.png?raw=true"/>
 
----
-
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
@@ -50,7 +39,7 @@ Sell yourself!
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+14 years Liverpool fan ⚽️--You Will Never Walk Alone! 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
